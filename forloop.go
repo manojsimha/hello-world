@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	for i := 0; i < 3; i++ {
+	for i := 0; i < 4; i++ {
 		fmt.Print(strconv.Itoa(i) + " ")
 	}
 
