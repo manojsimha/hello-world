@@ -5,3 +5,8 @@ Created in first branch
 Updated after 2hrs
 
 Updated again after git push
+<<<<<<< HEAD
+=======
+
+Editied in git gui
+>>>>>>> 97caef51b6df106bbce50a012a192aff4528068c
